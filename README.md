@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Daily Using</h2>
 
 ###
 
